@@ -1,11 +1,9 @@
 # 100 Days of Code Log: Round 1 - Clifton Long
 This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
-### Start Date
-October 18th, 2021.
+**Start Date:** October 18th, 2021.
 
-### Format
-R1-D1 = **R**ound **1**, **D**ay **1**
+**Format:** R1-D1 = **R**ound **1**, **D**ay **1**
 
 <!-- 
 ## Log
