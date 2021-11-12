@@ -10,6 +10,8 @@ Initially posting my status updates in the freeCodeCamp Discord channel, I decid
 ## Contents
 Link to other directories in the repo, here.
 
+While there were many small Replits and coding exercises, many of them were very simple and used only for exploring and illustrating code concepts. I've opted to list complete, well-rounded apps in the repo. 
+
 ## Credits
 Credit your inspirations and support here.
 https://github.com/kallaway/100-days-of-code
