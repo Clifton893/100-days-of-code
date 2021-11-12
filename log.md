@@ -1,9 +1,16 @@
 # 100 Days of Code Log: Round 1 - Clifton Long
 This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
-**Start Date:** October 18th, 2021.
+### Start Date
+October 18th, 2021.
 
-<!-- 1. Began Angela Yu's *"Complete Python Pro Bootcamp for 20201"* course on Udemy, which is also itself a #100 Days of Code program. 
+### Format
+R1-D1 = **R**ound **1**, **D**ay **1**
+
+<!-- 
+## Log
+
+1. Began Angela Yu's *"Complete Python Pro Bootcamp for 20201"* course on Udemy, which is also itself a #100 Days of Code program. 
 
 2. Went over data types, type conversions, and type casting; got halfway through Section 2 of my Udemy course. 
 
