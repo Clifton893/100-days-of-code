@@ -81,3 +81,6 @@ Day of rest. Stressful week -- add +1 day after Day 100 to compensate.
 
 ### R1-D25
 Intro to Positional Arguments and Keyword Arguments; coded an app that calculates how much paint you need to buy, given a random height and width of a wall. 
+
+### R1-D26
+Practiced arguments and inputs by creating a function checking whether a number is prime or not prime.
