@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator 🔒
 A random password generator built with Python, for my 100 Days of Code challenge.
 
 ## Description
