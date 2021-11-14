@@ -84,3 +84,6 @@ Intro to Positional Arguments and Keyword Arguments; coded an app that calculate
 
 ### R1-D26
 Practiced arguments and inputs by creating a function checking whether a number is prime or not prime.
+
+### R1-D27
+Overhauled my `#100 Days of Code` repo on GitHub, now it's way more readable and presentable to potential employers.
