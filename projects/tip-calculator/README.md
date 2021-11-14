@@ -1,4 +1,4 @@
-# Tip Calculator App
+# Tip Calculator App 💵
 A basic program to price out a user's (fictional) pizza order.
 
 ## Description
