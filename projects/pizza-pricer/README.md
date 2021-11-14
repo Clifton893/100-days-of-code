@@ -1,4 +1,4 @@
-# Pizza Pricer
+# Pizza Pricer 🍕
 A basic program to price out a user's pizza order.
 
 ## Description
