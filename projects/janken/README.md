@@ -1,4 +1,4 @@
-# Janken
+# Janken ✊ 🖐️ ✌️
 A rock-paper-scissors game app, written in Python.
 
 ## Description
