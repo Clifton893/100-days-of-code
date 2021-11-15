@@ -87,3 +87,6 @@ Practiced arguments and inputs by creating a function checking whether a number 
 
 ### R1-D27
 Overhauled my `#100 Days of Code` repo on GitHub, now it's way more readable and presentable to potential employers.
+
+### R1-D28
+Added my Hangman game app's to the repo.
