@@ -8,3 +8,4 @@ This subdirectory contains milestone projects during my 100 Days of Python Code.
 - [Pizza Pricing Calculator](pizza-pricer)
 - [Janken (Rock, Paper, Scissors) Game](janken)
 - [Password Generator](password-generator)
+- [Hangman](hangman)
