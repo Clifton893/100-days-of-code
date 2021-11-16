@@ -93,3 +93,6 @@ Added my Hangman game app's to the repo.
 
 ### R1-D29
 No code; packed day after a long weekend, rested up to get back to coding tomorrow. +1 day after Day 100.
+
+### R1-D30
+[Built first part of Caesar Cipher app](https://replit.com/@Clifton893/caesar-cipher-1-start#main.py), writing functions to shift user inputs.
