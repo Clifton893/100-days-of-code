@@ -90,3 +90,6 @@ Overhauled my `#100 Days of Code` repo on GitHub, now it's way more readable and
 
 ### R1-D28
 Added my Hangman game app's to the repo.
+
+### R1-D29
+No code; packed day after a long weekend, rested up to get back to coding tomorrow. +1 day after Day 100.
