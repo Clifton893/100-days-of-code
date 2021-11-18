@@ -7,7 +7,7 @@
 ## Challenge & Commitment 🙌
 Inspired by [Alex Kallaway's](https://github.com/kallaway) #100DaysOfCode challenge. (You can read more about it [here](https://www.100daysofcode.com/)).
 
-**Commitment:** 
+**Commitment:** *"I will code daily for the next 100 days."*
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
