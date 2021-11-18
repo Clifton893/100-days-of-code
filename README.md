@@ -14,4 +14,5 @@ You can read my daily log [here](log.md).
 
 ## Credits/Inspirations 🙏
 <!-- Credit your inspirations and support here. -->
-- Repo inspired by [Alex Kallaway](https://github.com/kallaway/100-days-of-code)
+-  100 Days of Code challenge: [Alex Kallaway](https://github.com/kallaway/100-days-of-code)
+-  Repo structure: [James Priest](https://github.com/james-priest/100-days-of-code-log)
