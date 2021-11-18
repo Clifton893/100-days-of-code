@@ -1,18 +1,32 @@
-# 100 Days of Code: Python
-While chatting with a confidant one weekend, I decided to begin a personal #100daysofcode challenge and finally learn Python. I enrolled in Dr. Angela Yu's [Python course](https://www.udemy.com/course/100-days-of-code/) on Udemy, and began my hundred-day commitment. This repository documents that journey.
+# Clifton Long
 
-## Projects 👨‍💻
-<!-- List projects here -->
+## 100 Days of Code 📝
+<!-- Insert table here, if/when you begin Round 2 -->
+[Read my log here](log.md)
 
-### Additional Code 💾
-This repository is for my milestone projects, demonstrating complete Python apps.
+## Challenge & Commitment 🙌
+Inspired by [Alex Kallaway's](https://github.com/kallaway) #100DaysOfCode challenge. (You can read more about it [here](https://www.100daysofcode.com/)).
 
-While there were many small Replits and coding exercises, many of them were very simple and used only for exploring and illustrating code concepts. In the interest of time, I will not be linking to these in this repo; but they can be found [in my Replit page]().
+**Commitment:** 
 
-## Log 📝
-You can read my daily log [here](log.md).
+|  Start Date   | End Date     |
+| ------------- | ------------ |
+| October 18, 2021 | `X Y, Z` |
+
+## Goals 🎯
+
+- [ ] Code daily
+- [ ] Expand my portfolio, and list this project on my resume
+- [ ] Push my mind to think like a programmer, and learn a new language
+- [ ] Have fun :)
+
+<!-- ### Secondary Goals & Resources
+- [ ] Complete Dr. Angela Yu's [Python course](https://www.udemy.com/course/100-days-of-code/) on Udemy
+-->
+
 
 ## Credits/Inspirations 🙏
 <!-- Credit your inspirations and support here. -->
 -  100 Days of Code challenge: [Alex Kallaway](https://github.com/kallaway/100-days-of-code)
 -  Repo structure: [James Priest](https://github.com/james-priest/100-days-of-code-log)
+
