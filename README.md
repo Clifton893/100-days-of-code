@@ -27,6 +27,6 @@ Inspired by [Alex Kallaway's](https://github.com/kallaway) #100DaysOfCode challe
 
 ## Credits/Inspirations 🙏
 <!-- Credit your inspirations and support here. -->
--  100 Days of Code challenge: [Alex Kallaway](https://github.com/kallaway/100-days-of-code)
--  Repo structure: [James Priest](https://github.com/james-priest/100-days-of-code-log)
+-  [Alex Kallaway](https://github.com/kallaway/100-days-of-code): 100 Days of Code challenge
+-  [James Priest](https://github.com/james-priest/100-days-of-code-log): README.md format
 
