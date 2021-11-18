@@ -96,3 +96,6 @@ No code; packed day after a long weekend, rested up to get back to coding tomorr
 
 ### R1-D30
 [Built first part of Caesar Cipher app](https://replit.com/@Clifton893/caesar-cipher-1-start#main.py), writing functions to shift user inputs.
+
+### R1-D31
+[Continued Caesar Cipher app](https://replit.com/@Clifton893/caesar-cipher-3-start#main.py), consolidating two functions into one to drastically clean up code.
