@@ -1,11 +1,5 @@
-`Note: Will reverse order chronologically for easier readability and logging. This is a placeholder and will be updated by November 21, 2021.`
-
-# 100 Days of Code Log: Round 1 - Clifton Long
+# 100 Days of Code Log: Python
 This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
-
-* **Start Date:** *October 18th, 2021*
-
-* **Format:** R1-D1 = `Round 1, Day 1`
 
 ## Log
 
