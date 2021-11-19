@@ -98,3 +98,5 @@ Went over data types, type conversions, and type casting; got halfway through Se
 
 ### Day 1: October 18
 Began Angela Yu's *"Complete Python Pro Bootcamp for 20201"* course on Udemy, which is also itself a #100 Days of Code program. 
+
+<!-- Add Day 0 + setup here -->
