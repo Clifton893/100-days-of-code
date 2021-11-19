@@ -101,3 +101,6 @@ No code; packed day after a long weekend, rested up to get back to coding tomorr
 
 ### R1-D31
 [Continued Caesar Cipher app](https://replit.com/@Clifton893/caesar-cipher-3-start#main.py), consolidating two functions into one to drastically clean up code.
+
+### R1-D32
+[Finished Caesar Cipher app](https://replit.com/@Clifton893/caesar-cipher-4-start#main.py), importing an ASCII logo, enabling encryption of numbers/symbols/spaces, and adding a `while` loop to let the user continue using the app as long as they please.
