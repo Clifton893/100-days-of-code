@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 33: November 19
+Reorganized my 100 Days of Code repo, redesigning [README.md](README.md) and [log.md](log.md) for content and readability.
+
 ### Day 32: November 18
 [Finished Caesar Cipher app](https://replit.com/@Clifton893/caesar-cipher-4-start#main.py), importing an ASCII logo, enabling encryption of numbers/symbols/spaces, and adding a `while` loop to let the user continue using the app as long as they please.
 
