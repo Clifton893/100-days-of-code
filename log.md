@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 34: November 20
+Long week and chores piled up, day off from code. +1 day after Day 100.
+
 ### Day 33: November 19
 Reorganized my 100 Days of Code repo, redesigning [README.md](README.md) and [log.md](log.md) for content and readability.
 
