@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 35: November 21
+Introduced to Python dictionaries; [built a program](https://replit.com/@Clifton893/day-9-1-exercise#main.py) looping through a dictionary to create values in a new, empty dictionary.
+
 ### Day 34: November 20
 Long week and chores piled up, day off from code. +1 day after Day 100.
 
