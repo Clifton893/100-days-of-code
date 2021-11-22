@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 36: November 22
+Practiced nesting dictionaries and lists, [wrote a program](https://replit.com/@appbrewery/day-9-2-exercise#README.md) that appends new dictionaries to a list.
+
 ### Day 35: November 21
 Introduced to Python dictionaries; [built a program](https://replit.com/@Clifton893/day-9-1-exercise#main.py) looping through a dictionary to create values in a new, empty dictionary.
 
