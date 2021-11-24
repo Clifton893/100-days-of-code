@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 37: November 23
+Reviewed dictionaries material to better familiarize myself with them.
+
 ### Day 36: November 22
 Practiced nesting dictionaries and lists, [wrote a program](https://replit.com/@appbrewery/day-9-2-exercise#README.md) that appends new dictionaries to a list.
 
