@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 38: November 24
+Another dictionary review day, day full of errands/chores/work, and Thanksgiving eve.
+
 ### Day 37: November 23
 Reviewed dictionaries material to better familiarize myself with them.
 
