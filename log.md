@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 39: November 25
+Thanksgiving. Holiday. :)
+
 ### Day 38: November 24
 Another dictionary review day, day full of errands/chores/work, and Thanksgiving eve.
 
