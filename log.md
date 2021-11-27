@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 40: November 26
+Started section 9's final project in my Udemy course, troubleshot Replit IDE.
+
 ### Day 39: November 25
 Thanksgiving. Holiday. :)
 
