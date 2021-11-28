@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 41: November 27
+Continued section 9 project (a silent auction app)
+
 ### Day 40: November 26
 Started section 9's final project in my Udemy course, troubleshot Replit IDE.
 
