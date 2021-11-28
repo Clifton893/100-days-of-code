@@ -4,7 +4,7 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 ## Log
 
 ### Day 42: November 28
-Added Caesar Cipher to repo, finished Blind Auction, added Blind Auction to repo.
+Added Caesar Cipher to repo, finished [Blind Auction](https://replit.com/@Clifton893/Blind-Auction#main.py) app, added Blind Auction to repo.
 
 ### Day 41: November 27
 Continued section 9 project (a blind auction app)
