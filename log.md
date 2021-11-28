@@ -3,8 +3,11 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 42: November 28
+Added Caesar Cipher to repo, finished Blind Auction, added Blind Auction to repo.
+
 ### Day 41: November 27
-Continued section 9 project (a silent auction app)
+Continued section 9 project (a blind auction app)
 
 ### Day 40: November 26
 Started section 9's final project in my Udemy course, troubleshot Replit IDE.
