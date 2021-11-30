@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 43: November 29
+[Introduction](https://replit.com/@Clifton893/day-10-start#main.py) to outputs of functions and returning values.
+
 ### Day 42: November 28
 Added Caesar Cipher to repo, finished [Blind Auction](https://replit.com/@Clifton893/Blind-Auction#main.py) app, added Blind Auction to repo.
 
