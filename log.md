@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 44: November 30
+Introduction to `return` statements and docstrings.
+
 ### Day 43: November 29
 [Introduction](https://replit.com/@Clifton893/day-10-start#main.py) to outputs of functions and returning values.
 
