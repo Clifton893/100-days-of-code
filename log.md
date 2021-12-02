@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 45: December 1
+Built a [calculator app](https://replit.com/@Clifton893/calculator-start#main.py) using dictionaries, while loops, flags, and recursion.
+
 ### Day 44: November 30
 Introduction to `return` statements and docstrings.
 
