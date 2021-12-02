@@ -11,3 +11,4 @@ This subdirectory contains milestone projects during my 100 Days of Python Code.
 - [Hangman](hangman)
 - [Caesar Cipher](caesar-cipher)
 - [Blind Auction](blind-auction)
+- [Calculator](calculator)
