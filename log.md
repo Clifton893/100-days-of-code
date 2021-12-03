@@ -3,6 +3,11 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 46: December 2
+- Began working on [Blackjack](https://replit.com/@Clifton893/Blackjack#main.py) app.
+  - Built a function to randomly deal cards to the player and dealer.
+  - Created a function that takes a list of cards as input and returns the score. (Check for a blackjack as well.)
+
 ### Day 45: December 1
 Built a [calculator app](https://replit.com/@Clifton893/calculator-start#main.py) using dictionaries, while loops, flags, and recursion.
 
