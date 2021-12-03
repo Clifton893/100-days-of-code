@@ -3,6 +3,12 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 47: December 3
+- Finished [Blackjack](https://replit.com/@Clifton893/Blackjack#main.py) game app.
+  - Added `while` loop for computer ("AI") tactics.
+  - Created a function comparing the user and computer scores.
+  - Wrote win/lose conditions, and added a "play again" input.
+
 ### Day 46: December 2
 - Began working on [Blackjack](https://replit.com/@Clifton893/Blackjack#main.py) app.
   - Built a function to randomly deal cards to the player and dealer.
