@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 48: December 4
+Review day. Went back to cover fundamentals over the first 50 days.
+
 ### Day 47: December 3
 - Finished [Blackjack](https://replit.com/@Clifton893/Blackjack#main.py) game app.
   - Added `while` loop for computer ("AI") tactics.
