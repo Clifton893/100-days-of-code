@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 50: December 6
+Built a [number guessing game](https://replit.com/@Clifton893/Number-Guessing-Game#main.py) app with easy/hard settings, which tracks the user's guess against the answer and decrements with each try.
+
 ### Day 49: December 5
 Introduction to namespace, modifying global variables, and constants.
 
