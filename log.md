@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 49: December 5
+Introduction to namespace, modifying global variables, and constants.
+
 ### Day 48: December 4
 Review day. Went back to cover fundamentals over the first 50 days.
 
