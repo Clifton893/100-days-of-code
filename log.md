@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 51: December 7
+Finished Udemy course's Section 13 modules 1-5, covering debugging techiques and tricks.
+
 ### Day 50: December 6
 Built a [number guessing game](https://replit.com/@Clifton893/Number-Guessing-Game#main.py) app with easy/hard settings, which tracks the user's guess against the answer and decrements with each try.
 
