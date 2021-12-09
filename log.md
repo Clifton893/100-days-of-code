@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 52: December 8
+Continued reviewing debugging techniques and tricks in Udemy course.
+
 ### Day 51: December 7
 Finished Udemy course's Section 13 modules 1-5, covering debugging techiques and tricks.
 
