@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 54: December 10
+Created project repos for Blackjack and Guess the Number.
+
 ### Day 53: December 9
 Finished Section 13 (debugging techniques) in Udemy course.
 
