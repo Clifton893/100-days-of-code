@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 55: December 11
+Wrote pseudocode for next Udemy coding exercise (Higher/Lower Game).
+
 ### Day 54: December 10
 Created project repos for Blackjack and Guess the Number.
 
