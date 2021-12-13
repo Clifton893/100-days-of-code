@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 56: December 12
+Completed roughly 40% of [Higher/Lower Game](https://replit.com/@Clifton893/higher-lower-start#main.py), setting up modules and art, formatting dictionary entries into printable data via a function, generating a random item from a dictionary, and soliciting a user guess (`input`).
+
 ### Day 55: December 11
 Wrote pseudocode for next Udemy coding exercise (Higher/Lower Game).
 
