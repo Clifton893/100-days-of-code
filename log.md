@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 58: December 14
+Created project repo for Higher/Lower Game.
+
 ### Day 57: December 13
 Finished [Higher/Lower Game](https://replit.com/@Clifton893/HigherLower-Game) and Section 14 in Udemy course.
 
