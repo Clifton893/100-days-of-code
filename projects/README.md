@@ -13,3 +13,4 @@ This subdirectory contains milestone projects during my 100 Days of Python Code.
 - [Blind Auction](blind-auction)
 - [Calculator](calculator)
 - [Blackjack](blackjack)
+- [Guess the Number](guess-the-number)
