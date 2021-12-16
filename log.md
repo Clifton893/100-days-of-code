@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 59: December 15
+Rest day, tons of errands and little sleep.
+
 ### Day 58: December 14
 Created project repo for Higher/Lower Game.
 
