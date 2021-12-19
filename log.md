@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 62: December 18
+Continue chipping away at Coffee Machine coding project.
+
 ### Day 61: December 17
 Review `if`/`elif`/`else` differences. Continue work on Coffee Machine coding project.
 
