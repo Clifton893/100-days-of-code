@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 63: December 19
+Finish 80% of Coffee Machine coding exercise.
+
 ### Day 62: December 18
 Continue chipping away at Coffee Machine coding project.
 
