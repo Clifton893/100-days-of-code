@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 64: December 20
+No code -- family emergency right after work shift.
+
 ### Day 63: December 19
 Finish 80% of Coffee Machine coding exercise.
 
