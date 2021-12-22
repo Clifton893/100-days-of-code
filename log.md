@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 65: December 21
+No code -- sick.
+
 ### Day 64: December 20
 No code -- family emergency right after work shift.
 
