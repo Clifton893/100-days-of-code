@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 67: December 23
+Review PyCharm IDE and setup.
+
 ### Day 66: December 22
 Finish [Coffee Machine](https://replit.com/@Clifton893/Coffee-Machine#main.py) coding exercise.
 
