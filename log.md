@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 68: December 24
+Install PyCharm, create project repo for Coffee Machine.
+
 ### Day 67: December 23
 Review PyCharm IDE and setup.
 
