@@ -15,3 +15,4 @@ This subdirectory contains milestone projects during my 100 Days of Python Code.
 - [Blackjack](blackjack)
 - [Guess the Number](guess-the-number)
 - [Higher/Lower Game](higher-lower-game)
+- [Coffee Machine](coffee-machine)
