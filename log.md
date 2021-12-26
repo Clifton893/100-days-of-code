@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 69: December 25
+Christmas, still sick, no code.
+
 ### Day 68: December 24
 Install PyCharm, create project repo for Coffee Machine.
 
