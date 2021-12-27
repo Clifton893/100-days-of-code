@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 70: December 26
+Introduction to Python objects and object-oriented programming.
+
 ### Day 69: December 25
 Christmas, still sick, no code.
 
