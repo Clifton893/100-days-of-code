@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 71: December 27
+Familiarized myself with PyCharm, studied [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
+
 ### Day 70: December 26
 Introduction to Python objects and object-oriented programming.
 
