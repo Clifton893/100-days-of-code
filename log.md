@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 72: December 28
+Intro to Turtle Graphics, accessing objects' attributes and methods.
+
 ### Day 71: December 27
 Familiarized myself with PyCharm, studied [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
