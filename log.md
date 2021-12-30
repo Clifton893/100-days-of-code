@@ -3,6 +3,11 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 73: December 29
+- Reviewed Python packages and how to implement them;
+- [Practiced with Turtle](https://replit.com/@Clifton893/OoP-Practice-1#main.py);
+- [Practiced with Prettytable](https://replit.com/@Clifton893/PrettyTable-practice#main.py)
+
 ### Day 72: December 28
 Intro to Turtle Graphics, accessing objects' attributes and methods.
 
