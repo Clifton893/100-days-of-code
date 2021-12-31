@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 74: December 30, 2021
+Continued practice with modifying object attributes and calling methods with `PrettyTable`
+
 ### Day 73: December 29, 2021
 - Reviewed Python packages and how to implement them;
 - [Practiced with Turtle](https://replit.com/@Clifton893/OoP-Practice-1#main.py);
