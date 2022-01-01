@@ -3,6 +3,10 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 75: December 31, 2021
+- Built [Coffee Machine using object-oriented programming](https://replit.com/@Clifton893/OOP-Coffee-Machine#main.py)
+- Finished section 16 of Udemy course.
+
 ### Day 74: December 30, 2021
 Continued practice with modifying object attributes and calling methods with `PrettyTable`
 
