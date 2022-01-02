@@ -3,6 +3,10 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 77: January 02, 2022
+- Finished True/False Quiz game app, finished Section 17 of Udemy course.
+- Created project repo for object-oriented Coffee Machine app.
+
 ### Day 76: January 01, 2022 (😱)
 - [Introduction](https://replit.com/@Clifton893/oop-class-practice) to creating classes and setting attributes and methods in OOP.
 - Began writing a true/false quiz game in my local IDE. (Want some practice with PyCharm, will add to Replit portfolio afterwards.)
@@ -32,13 +36,13 @@ Introduction to Python objects and object-oriented programming.
 Christmas, still sick, no code.
 
 ### Day 68: December 24, 2021
-Install PyCharm, create project repo for Coffee Machine.
+Installed PyCharm, created project repo for Coffee Machine.
 
 ### Day 67: December 23, 2021
-Review PyCharm IDE and setup.
+Reviewed PyCharm IDE and setup.
 
 ### Day 66: December 22, 2021
-Finish [Coffee Machine](https://replit.com/@Clifton893/Coffee-Machine#main.py) coding exercise.
+Finished [Coffee Machine](https://replit.com/@Clifton893/Coffee-Machine#main.py) coding exercise.
 
 ### Day 65: December 21, 2021
 No code -- sick.
@@ -47,13 +51,13 @@ No code -- sick.
 No code -- family emergency right after work shift.
 
 ### Day 63: December 19, 2021
-Finish 80% of Coffee Machine coding exercise.
+Finished 80% of Coffee Machine coding exercise.
 
 ### Day 62: December 18, 2021
-Continue chipping away at Coffee Machine coding project.
+Chipped away at Coffee Machine coding project.
 
 ### Day 61: December 17, 2021
-Review `if`/`elif`/`else` differences. Continue work on Coffee Machine coding project.
+Reviewed `if`/`elif`/`else` differences. Continue work on Coffee Machine coding project.
 
 ### Day 60: December 16, 2021
 Started Coffee Machine coding project in Udemy Section 15.
