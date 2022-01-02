@@ -3,6 +3,10 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 76: January 01, 2022 (😱)
+- [Introduction](https://replit.com/@Clifton893/oop-class-practice) to creating classes and setting attributes and methods in OOP.
+- Began writing a true/false quiz game in my local IDE. (Want some practice with PyCharm, will add to Replit portfolio afterwards.)
+
 ### Day 75: December 31, 2021
 - Built [Coffee Machine using object-oriented programming](https://replit.com/@Clifton893/OOP-Coffee-Machine#main.py)
 - Finished section 16 of Udemy course.
