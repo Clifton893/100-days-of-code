@@ -3,6 +3,10 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 78: January 03, 2022
+- Created project repo for True/False Quiz app.
+- Reviewed fundamental Python concepts for retention.
+
 ### Day 77: January 02, 2022
 - Finished True/False Quiz game app, finished Section 17 of Udemy course.
 - Created project repo for object-oriented Coffee Machine app.
