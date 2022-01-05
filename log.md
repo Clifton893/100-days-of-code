@@ -3,6 +3,10 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 79: January 04, 2022
+- Wrote pseudocode for a ramen machine coding project (spinoff of Coffee Machine for more practice).
+- Continued fundamental review.
+
 ### Day 78: January 03, 2022
 - Created project repo for True/False Quiz app.
 - Reviewed fundamental Python concepts for retention.
