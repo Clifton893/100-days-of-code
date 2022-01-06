@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 80: January 05, 2022
+- [Explored](https://replit.com/@Clifton893/day-18-start#main.py) Turtle Graphics documentation and functionality.
+
 ### Day 79: January 04, 2022
 - Wrote pseudocode for a ramen machine coding project (spinoff of Coffee Machine for more practice).
 - Continued fundamental review.
