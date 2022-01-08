@@ -3,6 +3,10 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 82: January 07, 2022
+- [Generated](https://replit.com/@Clifton893/day-18-start#main.py) a random walk using Turtle Graphics.
+- Introduced to Python tuples, and how to use it to randomly generate colors.
+
 ### Day 81: January 06, 2022
 - [Explored](https://replit.com/@Clifton893/day-18-start#main.py) algorithms and coding in Turtle Graphics to create shapes.
 
