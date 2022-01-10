@@ -29,4 +29,5 @@ Inspired by [Alex Kallaway's](https://github.com/kallaway) #100DaysOfCode challe
 <!-- Credit your inspirations and support here. -->
 -  [Alex Kallaway](https://github.com/kallaway/100-days-of-code): 100 Days of Code challenge
 -  [James Priest](https://github.com/james-priest/100-days-of-code-log): README.md format
+-  [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/): Curriculum
 
