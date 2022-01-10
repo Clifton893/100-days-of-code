@@ -7,6 +7,7 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 - Wrote a function, using the [Colorgram](https://pypi.org/project/colorgram.py/) package, to extract the colors from a jpg image and store it as a list of tuples.
 - Using Turtle Graphics, wrote an algorithm to draw dot art (ala Damien Hirst) using random tuples from the extracted list of colors.
 - (Coded this locally in PyCharm, since Replit's IDE is too limited to import a package alongside Turtle.)
+- Created project repo for Hirst Painting Generator.
 
 ### Day 83: January 08, 2022
 - [Created](https://replit.com/@Clifton893/day-18-start#main.py) a spirograph using Turtle Graphics.
