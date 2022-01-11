@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 85: January 10, 2022
+- No code; worked my part-time job and studied hard for a technical interview tomorrow.
+
 ### Day 84: January 09, 2022
 - Wrote a function, using the [Colorgram](https://pypi.org/project/colorgram.py/) package, to extract the colors from a jpg image and store it as a list of tuples.
 - Using Turtle Graphics, wrote an algorithm to draw dot art (ala Damien Hirst) using random tuples from the extracted list of colors.
