@@ -3,6 +3,11 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Mental Health Break: January 11 - 16, 2022
+- The previous week was a rush of long shifts, technical interviews and an active job hunt, and some stressful stuff in life that popped up.
+- So, instead of half-assing the #100 Days of Code through this stretch, I took a mental health break.
+- The challenge will resume tomorrow, now that I've been refreshed. 🐼
+
 ### Day 85: January 10, 2022
 - No code; worked my part-time job and studied hard for a technical interview tomorrow.
 
