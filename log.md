@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 86: January 17, 2022
+- Introduced to event listeners in Python.
+
 ### Mental Health Break: January 11 - 16, 2022
 - The previous week was a rush of long shifts, technical interviews and an active job hunt, and some stressful stuff in life that popped up.
 - So, instead of half-assing the #100 Days of Code through this stretch, I took a mental health break.
