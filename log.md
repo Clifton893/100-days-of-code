@@ -3,6 +3,10 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 87: January 18, 2022
+- Practiced with event listeners and Higher Order Functions in Python.
+- [Wrote an *Etch-A-Sketch* app](https://replit.com/@Clifton893/Etch-A-Sketch) using Turtle Graphics and event listeners.
+
 ### Day 86: January 17, 2022
 - Introduced to event listeners in Python.
 
