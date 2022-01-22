@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 89: January 20, 2022
+- Investigated event listeners and Higher Order Functions in Python.
+
 ### Day 88: January 19, 2022
 - Happy birthday to me :)
 - Began coding a "Turtle Race" program using Turtle Graphics to explore object instances and states.
