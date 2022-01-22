@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 90: January 21, 2022
+- No code, urgent personal business arose that I needed to handle in my free time usually allocated to coding.
+
 ### Day 89: January 20, 2022
 - Investigated event listeners and Higher Order Functions in Python.
 
