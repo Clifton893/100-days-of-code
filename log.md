@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Jan 23 - 25, 2022
+- No code, prep for on-site interview and technical battery
+
 ### Day 91: January 22, 2022
 - Finish "Turtle Race" program in local PyCharm environment.
 
