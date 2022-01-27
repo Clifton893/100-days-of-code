@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 92: January 26, 2022
+- Began coding "Snake Game" program using Turtle Graphics.
+
 ### Jan 23 - 25, 2022
 - No code, prep for on-site interview and technical battery
 
