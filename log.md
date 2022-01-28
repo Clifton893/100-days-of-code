@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 93: January 27, 2022
+- Added a `while` loop to the Snake Game, using the `Time` and `Screen` modules to animate the snake.
+
 ### Day 92: January 26, 2022
 - Began coding "Snake Game" program using Turtle Graphics.
 
