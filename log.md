@@ -3,6 +3,10 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 94: January 28, 2022
+- Finished writing algorithm for movement in Snake Game.
+- Refactored code, created separate file for object class, streamlining `main.py` file.
+
 ### Day 93: January 27, 2022
 - Added a `while` loop to the Snake Game, using the `Time` and `Screen` modules to animate the snake.
 
