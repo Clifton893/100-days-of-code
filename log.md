@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 95: January 29, 2022
+- Coded methods to control Snake Game via arrow key inputs.
+
 ### Day 94: January 28, 2022
 - Finished writing algorithm for movement in Snake Game.
 - Refactored code, created separate file for object class, streamlining `main.py` file.
