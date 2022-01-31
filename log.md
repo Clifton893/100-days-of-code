@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 96: January 30, 2022
+- Create "snake food" by inheriting the Turtle class, and to randomly spawn on the screen after the snake touches it.
+
 ### Day 95: January 29, 2022
 - Coded methods to control Snake Game via arrow key inputs.
 
