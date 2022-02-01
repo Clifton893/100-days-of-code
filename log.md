@@ -3,6 +3,10 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 97: February 1, 2022
+- Happy Lunar New Year! 🐯 🧧
+- Created a scoreboard class that displays at the top of the screen, and updates its score when the Snake "eats" food.
+
 ### January 31, 2022
 - No code, more urgent issues demanded time before and after work.
 
