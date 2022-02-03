@@ -3,6 +3,9 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 98: February 2, 2022
+- Added wall collision to Snake Game to trigger game over.
+
 ### Day 97: February 1, 2022
 - Happy Lunar New Year! 🐯 🧧
 - Created a scoreboard class that displays at the top of the screen, and updates its score when the Snake "eats" food.
