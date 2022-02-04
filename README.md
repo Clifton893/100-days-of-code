@@ -15,15 +15,10 @@ Inspired by [Alex Kallaway's](https://github.com/kallaway) #100DaysOfCode challe
 
 ## Goals 🎯
 
-- [ ] Code daily
-- [ ] Expand my portfolio, and list this project on my resume
-- [ ] Push my mind to think like a programmer, and learn a new language
-- [ ] Have fun :)
-
-<!-- ### Secondary Goals & Resources
-- [ ] Complete Dr. Angela Yu's [Python course](https://www.udemy.com/course/100-days-of-code/) on Udemy
--->
-
+- [x] Code daily
+- [x] Expand my portfolio, and list this project on my resume
+- [x] Push my mind to think like a programmer, and learn a new language
+- [x] Have fun :)
 
 ## Credits/Inspirations 🙏
 <!-- Credit your inspirations and support here. -->
