@@ -3,6 +3,12 @@ This is the log of my #100DaysofCode challenge, featuring rapid-style entries.
 
 ## Log
 
+### Day 100: February 4, 2022
+- Day 100! I can't believe I did it! 😁 🙌
+- Uploaded Turtle Race
+- Uploaded Snake game
+
+
 ### Day 99: Feruary 3, 2022
 - Created functions to increase snake length after colliding with "food"
 - Added tail collision as a game over condition by slicing through a list
