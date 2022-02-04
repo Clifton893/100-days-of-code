@@ -11,7 +11,7 @@ Inspired by [Alex Kallaway's](https://github.com/kallaway) #100DaysOfCode challe
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
-| October 18, 2021 | `X Y, Z` |
+| October 18, 2021 | February 4, 2022 |
 
 ## Goals 🎯
 
