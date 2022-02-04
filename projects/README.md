@@ -19,3 +19,4 @@ This subdirectory contains milestone projects during my 100 Days of Python Code.
 - [Coffee Machine -- Rebuilt with OOP!](coffee-machine-oop)
 - [Hirst Painting Generator](hirst-painting-generator)
 - [Turtle Race](turtle-race)
+- [Snake](snake)
