@@ -1,7 +1,5 @@
 # Clifton Long
 
-**Status:** Currently wrapping up the project by writing a postmortem. I'll probably do some housekeeping around this repo to make it look nicer, too!
-
 ## 100 Days of Code 📝
 <!-- Insert table here, if/when you begin Round 2 -->
 [Read my log here](log.md)
